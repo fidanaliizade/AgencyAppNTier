@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.deps.json
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.dll
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Business.pdb
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Core.dll
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.DAL.dll
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.DAL.pdb
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\bin\Debug\net6.0\AgencyApp.Core.pdb
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.csproj.CopyComplete
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.dll
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\refint\AgencyApp.Business.dll
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\AgencyApp.Business.pdb
+C:\Users\II novbe\source\repos\AgencyApp.MVC\AgencyApp.Business\obj\Debug\net6.0\ref\AgencyApp.Business.dll

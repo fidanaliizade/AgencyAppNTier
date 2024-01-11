@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oecnFaBy/oXIQtamODFRfpg7QjZn/TKT3eUJuaOkstM=",
+  "Source": "AgencyApp.MVC",
+  "BasePath": "_content/AgencyApp.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AgencyApp.MVC\\wwwroot",
+      "Source": "AgencyApp.MVC",
+      "ContentRoot": "C:\\Users\\II novbe\\source\\repos\\AgencyApp.MVC\\AgencyApp.MVC\\wwwroot\\",
+      "BasePath": "_content/AgencyApp.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
