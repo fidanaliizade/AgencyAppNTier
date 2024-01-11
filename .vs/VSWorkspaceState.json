@@ -1,9 +1,0 @@
-{
-  "ExpandedNodes": [
-    "",
-    "\\AgencyApp.DAL",
-    "\\AgencyApp.DAL\\Context"
-  ],
-  "SelectedNode": "\\AgencyApp.DAL\\Context\\AppDbContext.cs",
-  "PreviewInSolutionExplorer": false
-}

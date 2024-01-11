@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,19 +8,37 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\manage\documentation\.DS_Store" />
+    <None Include="wwwroot\manage\fonts\.DS_Store" />
+    <None Include="wwwroot\manage\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\manage\images\.DS_Store" />
+    <None Include="wwwroot\manage\images\auth\.DS_Store" />
+    <None Include="wwwroot\manage\images\faces\.DS_Store" />
+    <None Include="wwwroot\manage\js\.DS_Store" />
+    <None Include="wwwroot\manage\pages\.DS_Store" />
+    <None Include="wwwroot\manage\pages\charts\.DS_Store" />
+    <None Include="wwwroot\manage\pages\forms\.DS_Store" />
+    <None Include="wwwroot\manage\pages\icons\.DS_Store" />
+    <None Include="wwwroot\manage\pages\samples\.DS_Store" />
+    <None Include="wwwroot\manage\pages\tables\.DS_Store" />
+    <None Include="wwwroot\manage\pages\ui-features\.DS_Store" />
+    <None Include="wwwroot\manage\scss\.DS_Store" />
+    <None Include="wwwroot\manage\scss\components\.DS_Store" />
+    <None Include="wwwroot\manage\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\manage\vendors\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.25">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AgencyApp.Business\AgencyApp.Business.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>

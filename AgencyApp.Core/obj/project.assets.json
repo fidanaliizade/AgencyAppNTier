@@ -819,19 +819,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II novbe\\.nuget\\packages\\": {}
+    "C:\\Users\\I novbe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II novbe\\source\\repos\\AgencyApp.MVC\\AgencyApp.Core\\AgencyApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\I novbe\\Desktop\\AgencyAppNTier\\AgencyApp.Core\\AgencyApp.Core.csproj",
       "projectName": "AgencyApp.Core",
-      "projectPath": "C:\\Users\\II novbe\\source\\repos\\AgencyApp.MVC\\AgencyApp.Core\\AgencyApp.Core.csproj",
-      "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II novbe\\source\\repos\\AgencyApp.MVC\\AgencyApp.Core\\obj\\",
+      "projectPath": "C:\\Users\\I novbe\\Desktop\\AgencyAppNTier\\AgencyApp.Core\\AgencyApp.Core.csproj",
+      "packagesPath": "C:\\Users\\I novbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\I novbe\\Desktop\\AgencyAppNTier\\AgencyApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\I novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -13,10 +13,10 @@ namespace AgencyApp.MVC_
 		public static void Main(string[] args)
 		{
 			var builder = WebApplication.CreateBuilder(args);
-			//builder.Services.AddAutoMapper(typeof(ProductMapper).Assembly);
+			builder.Services.AddAutoMapper(typeof(ProductMapper).Assembly);
 
-			// Add services to the container.
-			builder.Services.AddControllersWithViews();
+            // Add services to the container.
+            builder.Services.AddControllersWithViews();
 			builder.Services.AddDbContext<AppDbContext>(opt=>
 			{
 				opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
@@ -43,7 +43,7 @@ namespace AgencyApp.MVC_
 			app.UseAuthorization();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{area:exist}/{controller=Home}/{action=Index}/{id?}");
+                pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
 				name: "default",
